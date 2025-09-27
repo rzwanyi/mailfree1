@@ -15,7 +15,7 @@
  ### [点击查看一键部署指南](docs/yijianbushu.md)
 
 ## 📸 项目展示
-### 体验地址： https://mailexhibit.dinging.top/
+
 
 ### 体验账号： guest
 ### 体验密码： admin
